@@ -21,8 +21,7 @@ def modulo(num1, num2)
  num1 % num2
 end
 
-def square_root(num)
-  num = "81"
+def square_root
  root = Math.sqrt(81)
  puts root
  return root
