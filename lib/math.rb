@@ -27,4 +27,4 @@ def square_root(num)
  return root
 end
 
-num(81)
+num("81")
