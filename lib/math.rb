@@ -23,7 +23,7 @@ end
 
 def square_root(num)
   num = "81"
- root = Math.sqrt(num)
+ root = Math.sqrt(81)
  puts root
  return root
 end
